@@ -1,0 +1,1 @@
+# manl_template
